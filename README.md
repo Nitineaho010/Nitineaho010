@@ -1,6 +1,6 @@
 - 👋 Hi, My Name is Ahmed Al-Harbi
 - 👀 I’m interested in Programming , Cyber Security & Everything is Related To Computer Sicence & Technology 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python & CS50  
 - 💞️ I’m looking to collaborate on Open Societies
 - 📫 How to reach me Nitineaho@gmail.com   Or anzhhxvi@gmail.com
 - This Profile Hold My Entire List Or Projects Made With Python Sequenced From Beginner Level To The Guru Level That I Hope I reach & links to my profiles & contributions in different platforms & projects that i hope will do in the future 
